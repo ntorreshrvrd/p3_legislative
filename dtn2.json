@@ -1,0 +1,16 @@
+{
+	"id": "dtn2",
+	"question": "Is it permissible for the operations/maintenance component for the infrastructure to be privatized?",
+	"description": "<p>Some legislative procurement frameworks could preclude or place an inordinate burden on privatizing operations and maintenance responsibilities.  If you issue tax-exempt municipal debt for the project, the Internal Revenue Service private activity restrictions on operations/maintenance privatization agreements may negatively impact your ability to attract private sector bidders or to negotiate advantageous terms with such bidders.  Your municipal financial adviser and legal advisers can help you to answer these questions.</p>",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "anode2"
+		},
+		{
+			"text": "No",
+			"target": "anode3"
+		}
+	]
+}
