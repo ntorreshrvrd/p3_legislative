@@ -1,0 +1,17 @@
+{
+	"id": "start",
+	"question": "Is the procurement process for my jurisdiction amenable to public private partnership solicitation?",
+	"description": "<p>Do I have the legal authority to participate in a public private partnership?  Your legal advisers will play a pivotal role in helping you answer this foundational question.  If you get a positive answer, then do any of the legislative procurement framework applicable to a public private partnership place an inordinate burden on private sector participation in a procurement process, i.e., are there open government public access document/audit requirements inimical to potential private partner participants; are there local workforce, locally sourced materials or small/minority owned business participation requirements disproportionately applied to a public private partnership versus a traditional procurement?</p>",
+	"answers": [
+
+		{
+			"text": "Yes",
+			"target": "dtn1"
+		},
+		
+		{
+			"text": "No",
+			"target": "dtn2"
+		}
+	]
+}
